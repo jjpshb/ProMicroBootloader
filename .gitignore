@@ -78,3 +78,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 *.d
+/LUFA_CDC_32KB_4KB_1/Debug/*.mk
+/LUFA_CDC_32KB_4KB_1/Debug/*.eep
+/LUFA_CDC_32KB_4KB_1/Debug/*.lss
+/LUFA_CDC_32KB_4KB_1/Debug/*.map
+/LUFA_CDC_32KB_4KB_1/Debug/*.srec
+/LUFA_CDC_32KB_4KB_1/Debug/Makefile
